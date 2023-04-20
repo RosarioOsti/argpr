@@ -1,0 +1,24 @@
+{
+    "OrderID":"AB250",
+    "Address":"San Jeronimo 778",
+    "Status":"pending",
+    "Articles":[
+        {
+            "name":"TV",
+            "quantity":1,
+            "dangerous":true
+        },
+        {
+            "name":"Audio", 
+            "quantity":4,
+            "dangerous":true
+        },
+        {
+            "name":"cables",
+            "quantity":5,
+            "dangerous":false
+        }
+    ]
+    
+        
+}
